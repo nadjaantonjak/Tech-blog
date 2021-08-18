@@ -6,6 +6,7 @@ Contributors - Nadja Antonjak
 A full-stack web application that allows you to register or login if you already have a account. Then you can write and read blogs created by yourself or fellow users!
 
 Having trouble deploying 
+
 Demo video off local host 
 https://vimeo.com/588864244
 
